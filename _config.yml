@@ -1,5 +1,8 @@
 title: 嘉美技术株式会社
 description: 小微企业数字转型的长期伙伴
-theme: minimal-mistakes-jekyll
-markdown: kramdown
 locale: zh-CN
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
