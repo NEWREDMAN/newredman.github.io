@@ -1,4 +1,7 @@
-# IT 专业化方案与实施
+---
+layout: single
+title: 网站建设服务
+permalink: /cn/services-web/
 
 ## 专业化技术咨询
 - 系统规划与选型（OA/CRM/ERP）
