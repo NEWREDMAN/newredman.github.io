@@ -1,7 +1,7 @@
 ---
 layout: single
-title: 网站建设服务
-permalink: /cn/services-web/
+title: IT 咨询与实施
+permalink: /cn/services-it/
 ---
 ## 专业化技术咨询
 - 系统规划与选型（OA/CRM/ERP）
