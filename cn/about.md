@@ -1,5 +1,7 @@
 ---
+layout: single
 title: 公司简介
+permalink: /cn/about/
 ---
 
 嘉美技术株式会社——小微企业数字转型的十年同行者
