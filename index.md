@@ -7,6 +7,14 @@ header:
   overlay_color: "#ffffff"
   overlay_filter: "0.9"
 ---
+<div style="margin-bottom:1.5em;">
+
+<img src="/assets/images/logo.png"
+     alt="嘉美技术株式会社 LOGO"
+     style="height:80px;">
+
+</div>
+
 欢迎访问嘉美技術株式会社  
 Welcome to JIAMEI Technology
 
