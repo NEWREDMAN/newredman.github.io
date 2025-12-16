@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.9"
 actions:
 ---
+
 欢迎访问嘉美技術株式会社
 Welcome to JIAMEI Technology
 
