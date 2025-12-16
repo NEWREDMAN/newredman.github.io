@@ -1,15 +1,19 @@
 ---
+---
 layout: splash
 title: 嘉美技术株式会社
-excerpt: |
-  面向中日企业，提供技术支持、系统解决方案及本地化服务
-  日中両国の企業様向けに、技術サポート、システムソリューションおよびローカライズサービスを提供しております。
----
+subtitle: 专注技术服务 · 深耕日本市场
+excerpt: "面向中日企业，提供技术支持、系统解决方案及本地化服务"
 header:
   overlay_color: "#ffffff"
   overlay_filter: "0.9"
 actions:
- 
+  - label: "了解我们的业务"
+    url: "/cn/business/"
+  - label: "联系我们"
+    url: "/cn/contact/"
+---
+
 ---
 欢迎访问嘉美技術株式会社
 Welcome to JIAMEI Technology
