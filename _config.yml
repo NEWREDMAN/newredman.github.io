@@ -4,3 +4,8 @@ description: 小微企业数字转型的长期伙伴
 locale: zh-CN
 subtitle: JIAMEI Technology
 remote_theme: "mmistakes/minimal-mistakes"
+include_cached: false
+
+plugins:
+  - jekyll-include-cache
+
