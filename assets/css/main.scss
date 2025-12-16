@@ -1,0 +1,21 @@
+---
+# 这是给 Jekyll 看的 front matter，必须保留
+---
+
+@import "minimal-mistakes";
+
+/* ===== LOGO + 标题微调 ===== */
+
+.masthead__inner-wrap .site-logo img {
+  max-height: 42px;   /* 控制 LOGO 高度（日系常用 36–44） */
+}
+
+.masthead__inner-wrap .site-title {
+  font-size: 1.1rem; /* 公司名稍微克制 */
+  font-weight: 600;
+}
+
+.masthead__inner-wrap .site-subtitle {
+  font-size: 0.75rem;
+  color: #777;
+}
