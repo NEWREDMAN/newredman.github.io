@@ -1,9 +1,8 @@
 ---
 layout: home
-title: 嘉美技术
+title: 嘉美技术株式会社
 nav: cn
-header:
-  overlay: false
+masthead: true
 ---
 
 
