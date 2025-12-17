@@ -1,4 +1,4 @@
-cn:
+main:
   - title: "首页"
     url: /cn/
 
@@ -12,12 +12,9 @@ cn:
       - title: "系统 / 网站建设"
         url: /cn/services-web/
       - title: "日本商务支持"
-        url: /cn/services-kc/
+        url: /cn/services-business/
       - title: "日本优品选品顾问"
-        url: /cn/services-sp/
+        url: /cn/services-selection/
 
   - title: "联系我们"
     url: /cn/contact/
-
-
-
