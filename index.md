@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /
 title: 嘉美技術株式会社
 excerpt: |
   面向中日企业，提供技术支持、系统解决方案及本地化服务；  
