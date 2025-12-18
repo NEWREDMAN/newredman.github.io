@@ -6,14 +6,18 @@ main:
     url: /cn/about/
 
   - title: "IT 咨询与解决方案"
-        url: /cn/services-it/
+    url: /cn/services-it/
+        
   - title: " 网站建设"
-        url: /cn/services-web/
+    url: /cn/services-web/
+    
   - title: "日本商务考察支持"
-        url: /cn/services-kc/
+    url: /cn/services-kc/
+    
   - title: "日本优品惠购"
-        url: /cn/services-sp/
+    url: /cn/services-sp/
 
   - title: "联系我们"
     url: /cn/contact/
+
 
