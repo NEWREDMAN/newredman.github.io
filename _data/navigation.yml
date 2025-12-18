@@ -2,10 +2,7 @@ main:
   - title: "首页"
     url: /cn/
 
-  - title: "公司介绍"
-    url: /cn/about/
-
-  - title: "IT 咨询与解决方案"
+    - title: "IT 咨询与解决方案"
     url: /cn/services-it/
         
   - title: " 网站建设"
@@ -17,7 +14,4 @@ main:
   - title: "日本优品惠购"
     url: /cn/services-sp/
 
-  - title: "联系我们"
-    url: /cn/contact/
-
-
+ 
