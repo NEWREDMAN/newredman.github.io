@@ -5,16 +5,15 @@ main:
   - title: "公司介绍"
     url: /cn/about/
 
-  - title: "业务与服务"
-    children:
-      - title: "IT 咨询与解决方案"
+  - title: "IT 咨询与解决方案"
         url: /cn/services-it/
-      - title: "系统 / 网站建设"
+  - title: " 网站建设"
         url: /cn/services-web/
-      - title: "日本商务支持"
+  - title: "日本商务考察支持"
         url: /cn/services-kc/
-      - title: "日本优品选品顾问"
+  - title: "日本优品惠购"
         url: /cn/services-sp/
 
   - title: "联系我们"
     url: /cn/contact/
+
