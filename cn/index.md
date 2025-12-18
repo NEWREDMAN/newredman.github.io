@@ -21,20 +21,49 @@ header:
 帮助企业在 **跨境业务、系统建设与数字化运营** 中实现长期、稳定、可持续的发展。
 
 ---
+## 我们的服务
 
-## 我们的核心服务
+<div style="
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2em;
+">
 
-<div class="feature__wrapper">
+  <div>
+    <h3>IT 咨询与解决方案</h3>
+    <p>
+      为中小企业提供系统规划、IT 咨询与技术支持，
+      助力企业实现高效、稳定的发展。
+    </p>
+  </div>
 
-<div class="feature__item">
-<img src="/assets/images/service-it.jpg" alt="IT 咨询与解决方案">
-<h3>IT 咨询与解决方案</h3>
-<p>
-围绕企业业务目标，提供系统架构设计、技术选型与实施规划，  
-确保系统具备稳定性、扩展性与长期维护能力。
-</p>
-<p><a href="/cn/services-it/" class="btn btn--primary btn--small">了解详情</a></p>
+  <div>
+    <h3>企业官网与品牌网站建设</h3>
+    <p>
+      面向日本市场与国际客户，
+      打造简洁、可信赖的企业官方网站。
+    </p>
+  </div>
+
+  <div>
+    <h3>日本商务考察支持</h3>
+    <p>
+      为中国企业提供日本商务考察、
+      市场调研及本地商务对接支持。
+    </p>
+  </div>
+
+  <div>
+    <h3>中日技术与商务协作</h3>
+    <p>
+      支持中日企业在技术、项目执行与沟通上的
+      长期协作与落地实施。
+    </p>
+  </div>
+
 </div>
+
+
 
 <div class="feature__item">
 <img src="/assets/images/service-web.jpg" alt="系统 / 企业级网站建设">
