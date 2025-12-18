@@ -26,37 +26,39 @@ header:
 
 <div class="feature__wrapper">
 
-<div class="feature__item feature__item--half">
-<img src="/assets/images/service-it.jpg" alt="IT 咨询与解决方案">
-<h3>IT 咨询与解决方案</h3>
-<p>围绕企业业务目标，提供系统架构设计与实施规划。</p>
-<p><a href="/cn/services-it/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
+  <div class="feature__item">
+    <img src="/assets/images/service-it.jpg" alt="IT 咨询与解决方案">
+    <h3>IT 咨询与解决方案</h3>
+    <p>围绕企业业务目标，提供系统架构设计与实施规划。</p>
+    <p><a href="/cn/services-it/" class="btn btn--primary btn--small">了解详情</a></p>
+  </div>
 
-<div class="feature__item feature__item--half">
-<img src="/assets/images/service-web.jpg" alt="系统 / 企业级网站建设">
-<h3>系统 / 企业级网站建设</h3>
-<p>注重系统结构、安全性与可维护性。</p>
-<p><a href="/cn/services-web/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
-
-<div class="feature__item feature__item--half">
-<img src="/assets/images/service-kc.jpg" alt="日本商务考察与技术陪同">
-<h3>日本商务考察与技术陪同</h3>
-<p>降低跨文化与技术沟通成本。</p>
-<p><a href="/cn/services-kc/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
-
-<div class="feature__item feature__item--half">
-<img src="/assets/images/service-sp.jpg" alt="日本优品选品与技术支持">
-<h3>日本优品选品与技术支持</h3>
-<p>提供长期合作与技术支持。</p>
-<p><a href="/cn/services-sp/" class="btn btn--primary btn--small">了解详情</a></p>
-</div>
+  <div class="feature__item">
+    <img src="/assets/images/service-web.jpg" alt="系统 / 企业级网站建设">
+    <h3>系统 / 企业级网站建设</h3>
+    <p>注重系统结构、安全性与可维护性。</p>
+    <p><a href="/cn/services-web/" class="btn btn--primary btn--small">了解详情</a></p>
+  </div>
 
 </div>
 
+<div class="feature__wrapper">
 
+  <div class="feature__item">
+    <img src="/assets/images/service-kc.jpg" alt="日本商务考察与技术陪同">
+    <h3>日本商务考察与技术陪同</h3>
+    <p>降低跨文化与技术沟通成本。</p>
+    <p><a href="/cn/services-kc/" class="btn btn--primary btn--small">了解详情</a></p>
+  </div>
+
+  <div class="feature__item">
+    <img src="/assets/images/service-sp.jpg" alt="日本优品选品与技术支持">
+    <h3>日本优品选品与技术支持</h3>
+    <p>提供长期合作与技术支持。</p>
+    <p><a href="/cn/services-sp/" class="btn btn--primary btn--small">了解详情</a></p>
+  </div>
+
+</div>
 ---
 
 ## 适合与我们合作的企业
