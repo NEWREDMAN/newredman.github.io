@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 系统 / 企业级网站建设
-nav: cn
+nav: main
 classes: wide
 ---
 
@@ -38,3 +38,4 @@ classes: wide
 ---
 
 欢迎通过 **联系我们** 获取详细方案说明。
+
