@@ -83,6 +83,64 @@ header:
 </div>
 
 ---
+## 🔥 限时优惠 · 小微企业专属建站方案
+
+---
+
+### 🌱 小微企业官网建设（标准版）
+
+> 专为 **在日本发展的中小企业 / 华语创业者 / 个体经营者** 打造的高性价比官网解决方案
+
+<div style="display:flex; flex-wrap:wrap; gap:24px; margin:24px 0;">
+  <div style="flex:1; min-width:260px; background:#ffffff; border-radius:16px; padding:24px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
+    <h3 style="margin-top:0;">💼 原价</h3>
+    <p style="font-size:22px; text-decoration:line-through; color:#999;">¥198,000 / 年</p>
+  </div>
+  <div style="flex:1; min-width:260px; background:#f5fbf8; border-radius:16px; padding:24px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
+    <h3 style="margin-top:0; color:#1b7f5a;">🎉 限时优惠价</h3>
+    <p style="font-size:32px; font-weight:bold; color:#1b7f5a;">¥99,800 / 年</p>
+    <p style="margin:0; color:#1b7f5a;">（立省 ¥98,200）</p>
+  </div>
+</div>
+
+---
+
+### ✅ 服务内容包含
+
+* 🔹 企业官网定制设计（中文 / 日文可选）
+* 🔹 首页 + 4 个核心页面（公司介绍 / 服务内容 / 联系方式等）
+* 🔹 响应式设计（手机 / 平板 / 电脑自适应）
+* 🔹 日本本地服务器 / GitHub Pages 稳定部署
+* 🔹 基础 SEO 设置（利于 Google / 日本搜索）
+* 🔹 一年内免费技术维护与小幅修改
+
+---
+
+### 👥 适合对象
+
+* ✔ 在日本创业的华人小微企业
+* ✔ 初创公司 / 个体经营者
+* ✔ 需要低成本建立专业形象的商家
+* ✔ 想先做官网验证市场，再逐步升级的企业
+
+---
+
+### 📍 为什么选择我们
+
+* 🇯🇵 深度理解 **日本商业环境与审美**
+* 🇨🇳 中文沟通无障碍，减少沟通成本
+* ⚙ 技术 + 落地经验，不只是做网站
+* 🤝 长期陪伴型服务，支持企业持续成长
+
+---
+
+### 📞 咨询与预约
+
+> 本优惠为 **小微企业扶持方案**，名额有限
+
+📩 欢迎通过【联系我们】页面与我们取得联系，获取详细方案说明。
+
+👉 *嘉美技术株式会社 · 小微企业数字化的长期伙伴*
 
 ## 适合与我们合作的企业
 
