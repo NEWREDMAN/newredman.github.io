@@ -39,8 +39,7 @@ classes: wide
 
   <div>
     <h3>公司位置（地图）</h3>
-   <h3>公司位置（地图）</h3>
-
+ 
 <iframe
   src="https://www.google.com/maps?q=福岡県福岡市中央区&output=embed"
   width="100%"
@@ -92,5 +91,6 @@ classes: wide
   </a>
 </div>
 ```
+
 
 
