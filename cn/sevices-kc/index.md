@@ -34,8 +34,7 @@ classes: wide
     <img src="/assets/images/japankc.mp4" alt="日本商务考察支持"
          style="border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,.08);">
   </div>
-
-</div>
+  
 
 ---
 
@@ -96,4 +95,5 @@ classes: wide
   </a>
 </div>
 ```
+
 
