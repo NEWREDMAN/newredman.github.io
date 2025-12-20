@@ -31,7 +31,7 @@ classes: wide
   </div>
 
   <div style="flex: 1; min-width: 260px;">
-    <img src="/assets/images/services/it.jpg" alt="IT 咨询服务"
+    <img src="/assets/images/it.png" alt="IT 咨询服务"
          style="border-radius: 14px; box-shadow: 0 12px 30px rgba(0,0,0,.08);">
   </div>
 
@@ -91,5 +91,6 @@ classes: wide
   </a>
 </div>
 ```
+
 
 
