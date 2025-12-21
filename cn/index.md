@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   actions:
     - label: "了解我们的服务"
-      url: "/cn/about.md"
+      url: "/cn/contact/"
 ---
 
 ## 技术驱动 · 服务中日企业的数字化合作伙伴
