@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: 嘉美技术株式会社
+title: 嘉美技術株式会社
 nav: main
 classes: wide
 header:
@@ -14,7 +14,7 @@ header:
 
 ## 技术驱动 · 服务中日企业的数字化合作伙伴
 
-嘉美技术株式会社是一家立足日本、面向中日市场的技术服务公司，  
+嘉美技術株式会社是一家立足日本、面向中日市场的技术服务公司，  
 专注于为企业提供 **技术咨询、系统解决方案及本地化技术支持**。
 
 我们以工程能力为核心，  
@@ -91,15 +91,14 @@ header:
 
 > 专为 **在日本发展的中小企业 / 华语创业者 / 个体经营者** 打造的高性价比官网解决方案
 
-<div style="display:flex; flex-wrap:wrap; gap:24px; margin:24px 0;">
-  <div style="flex:1; min-width:260px; background:#ffffff; border-radius:16px; padding:24px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-    <h3 style="margin-top:0;">💼 原价</h3>
-    <p style="font-size:22px; text-decoration:line-through; color:#999;">¥198,000 / 年</p>
-  </div>
-  <div style="flex:1; min-width:260px; background:#f5fbf8; border-radius:16px; padding:24px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-    <h3 style="margin-top:0; color:#1b7f5a;">🎉 限时优惠价</h3>
-    <p style="font-size:32px; font-weight:bold; color:#1b7f5a;">¥99,800 / 年</p>
-    <p style="margin:0; color:#1b7f5a;">（立省 ¥98,200）</p>
+<div style="margin:24px 0;">
+  <div style="background:#f5fbf8; border-radius:16px; padding:28px; box-shadow:0 10px 25px rgba(0,0,0,.08); text-align:center;">
+    <h3 style="margin-top:0; color:#1b7f5a;">💼 小微企业官网建设 · 年费方案</h3>
+    <p style="margin:12px 0 4px; font-size:18px; color:#999; text-decoration:line-through;">原价 ¥198,000 / 年</p>
+    <p style="margin:8px 0; font-size:34px; font-weight:bold; color:#1b7f5a;">优惠价 ¥99,800 / 年</p>
+    <p style="margin:0; font-size:14px; color:#1b7f5a;">（限时优惠 · 立省 ¥98,200）</p>
+    <p style="margin:12px 0 20px; font-size:13px; color:#666;">＊首年特惠价格，第二年可自由续约或升级服务方案</p>
+    <a href="/cn/contact/" style="display:inline-block; padding:10px 28px; background:#1b7f5a; color:#fff; border-radius:999px; font-size:14px; text-decoration:none; box-shadow:0 6px 14px rgba(27,127,90,.25);">咨询方案详情</a>
   </div>
 </div>
 
@@ -138,15 +137,6 @@ header:
 
 > 本优惠为 **小微企业扶持方案**，名额有限
 
-📩 欢迎通过【联系我们】页面与我们取得联系，获取详细方案说明。
-
-👉 *嘉美技术株式会社 · 小微企业数字化的长期伙伴*
-
-## 适合与我们合作的企业
-
-- 计划或已进入日本市场的中国企业  
-- 需要长期、稳定技术支持的日本中小企业  
-- 重视技术质量与持续合作关系的团队  
 
 ---
 
@@ -155,7 +145,7 @@ header:
 - 如需进一步了解我们的技术能力或合作方式，欢迎通过联系我们，与我们进行沟通与交流。
 - 联系电话：13807391160 （中国区域客户）  070-8441-3996（日本区域客户） 刘
 - Email:68600669@qq.com
-- 公司地址：福冈市中央区平尾一丁目10-26 703号
+- 公司地址：福冈市中央区平尾一丁目
 
 
 <style>
