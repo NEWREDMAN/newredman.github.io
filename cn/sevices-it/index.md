@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   actions:
     - label: "详细方案与实施报价"
-      url: "/cn/aiprice/"
+      url: "/cn/aiprices/"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
@@ -97,6 +97,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
