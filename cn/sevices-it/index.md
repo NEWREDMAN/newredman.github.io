@@ -2,6 +2,13 @@
 layout: single
 permalink: /cn/services-it/
 classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "详细方案与实施报价"
+      url: "/cn/aiprice/"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
@@ -90,6 +97,7 @@ classes: wide
   </a>
 </div>
 ```
+
 
 
 
