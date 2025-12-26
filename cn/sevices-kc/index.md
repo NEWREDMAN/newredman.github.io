@@ -1,8 +1,14 @@
 ---
 layout: single
+title: 日本商务考察支持
 permalink: /cn/services-kc/
 classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.35
+  caption: "为企业提供高效、可靠、可落地的日本商务考察与对接支持"
 ---
+
 
 <div style="padding: 2.5em 0; text-align: center;">
   <h1>日本商务考察支持</h1>
@@ -103,4 +109,5 @@ classes: wide
   </a>
 </div>
 ```
+
 
