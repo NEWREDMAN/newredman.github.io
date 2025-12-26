@@ -1,7 +1,7 @@
 ---
-layout: splash
+layout: single
+permalink: /cn/services-web/
 title: IT+AI赋能企业发展
-nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -98,6 +98,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
