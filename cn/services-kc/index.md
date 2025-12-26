@@ -1,13 +1,16 @@
 ---
-layout: single
-title: 日本商务考察支持
+layout: splash
+title: 赴日商务考察
 permalink: /cn/services-kc/
 nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
-  overlay_filter: 0.35
-  caption: "为企业提供高效、可靠、可落地的日本商务考察与对接支持"
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "商务考察服务及报价"
+      url: "/cn/kcprices/"
 ---
 
 
@@ -110,6 +113,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
