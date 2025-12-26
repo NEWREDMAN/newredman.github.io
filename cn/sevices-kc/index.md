@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.35
    - label: "商务考察方案及报价"
-      url: "/cn/contact/"
+     url: "/cn/contact/"
   caption: "为企业提供高效、可靠、可落地的日本商务考察与对接支持"
 ---
 
@@ -111,6 +111,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
