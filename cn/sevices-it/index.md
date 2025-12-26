@@ -1,13 +1,14 @@
 ---
-layout: single
-permalink: /cn/services-it/
+layout: splash
+title: IT+AI赋能企业发展
+nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
   overlay_color: "#000"
   actions:
-    - label: "详细方案与实施报价"
+    - label: "产品服务及报价"
       url: "/cn/aiprices/"
 ---
 
@@ -97,6 +98,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
