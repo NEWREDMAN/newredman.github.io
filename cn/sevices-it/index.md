@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: IT+AI赋能企业发展
-permalink: /cn/sevices-it/
+permalink: /cn/services-it/
 nav: main
 classes: wide
 header:
@@ -100,6 +100,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
