@@ -1,7 +1,16 @@
 ---
-layout: single
+layout: splash
+title: 企业网站建设
 permalink: /cn/services-web/
+nav: main
 classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "web建站产品及报价"
+      url: "/cn/webprices/"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
@@ -91,3 +100,4 @@ classes: wide
   </a>
 </div>
 ```
+
