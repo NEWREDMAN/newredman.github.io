@@ -130,7 +130,73 @@ header:
 * 🤝 长期陪伴型服务，支持企业持续成长
 
 ---
----
+<hr style="margin:4em 0;">
+
+<h2 style="text-align:center;">客户案例</h2>
+<p style="text-align:center; color:#666;">
+  部分商务考察与企业服务支持案例（已做匿名处理）
+</p>
+
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
+  gap:2em;
+  margin-top:3em;
+">
+
+  <!-- 案例 1 -->
+  <div style="background:#fff; padding:2em; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
+    <h3>制造业企业 · 日本市场考察</h3>
+    <p style="color:#888; font-size:0.95em;">中国 · 中型制造企业</p>
+
+    <ul>
+      <li>考察东京、大阪多家同业企业</li>
+      <li>安排企业拜访与现场交流</li>
+      <li>全程商务陪同与沟通支持</li>
+    </ul>
+
+    <p style="color:#666; margin-top:1em;">
+      帮助客户快速了解日本行业生态与合作模式，
+      明确后续进入日本市场的可行路径。
+    </p>
+  </div>
+
+  <!-- 案例 2 -->
+  <div style="background:#f8fafc; padding:2em; border-radius:16px; box-shadow:0 14px 34px rgba(0,0,0,.1); border:1px solid #e5e7eb;">
+    <h3>零售品牌 · 商业模式调研</h3>
+    <p style="color:#888; font-size:0.95em;">中国 · 消费品牌企业</p>
+
+    <ul>
+      <li>日本大型商业设施实地考察</li>
+      <li>品牌门店与运营模式分析</li>
+      <li>商业模式对比与总结</li>
+    </ul>
+
+    <p style="color:#666; margin-top:1em;">
+      协助客户理解日本零售体系与门店运营逻辑，
+      为国内业务升级提供参考。
+    </p>
+  </div>
+
+  <!-- 案例 3 -->
+  <div style="background:#fff; padding:2em; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
+    <h3>企业高管 · 日本体检陪同</h3>
+    <p style="color:#888; font-size:0.95em;">个人客户 / 企业高管</p>
+
+    <ul>
+      <li>预约日本医疗机构</li>
+      <li>医疗流程与沟通陪同</li>
+      <li>检查结果说明支持</li>
+    </ul>
+
+    <p style="color:#666; margin-top:1em;">
+      确保体检流程顺畅、沟通准确，
+      客户对整体体验给予高度评价。
+    </p>
+  </div>
+
+</div>
+
 
 ## 联系我们
 
