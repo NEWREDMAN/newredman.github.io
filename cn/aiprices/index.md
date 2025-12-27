@@ -1,7 +1,17 @@
 ---
-layout: single
-title: 小微企业信息化与 AI 赋能服务
+layout: splash
+title: IT + AI 赋能企业发展
 permalink: /cn/aiprices/
+nav: main
+classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "咨询 IT + AI 方案"
+      url: "/cn/contact/"
+---
 
 ---
 <h2 style="text-align:center; margin-top:2.5em;">
