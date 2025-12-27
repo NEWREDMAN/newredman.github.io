@@ -1,6 +1,6 @@
 ---
 layout: splash
-title:网站制作服务与报价
+title: 网站制作服务与报价
 permalink: /cn/webprices/
 nav: main
 classes: wide
