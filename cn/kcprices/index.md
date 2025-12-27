@@ -26,14 +26,14 @@ header:
   margin-top:3em;
 ">
 
-  <!-- 精华体验版 -->
+  <!-- 标准陪同版 -->
   <div style="background:#fff; padding:2em; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
-    <h3>精华体验版</h3>
-    <p style="color:#666;">适合初次日本商务考察、小规模团队</p>
+    <h3>标准陪同版</h3>
+    <p style="color:#666;">适合初次日本商务考察陪同、小规模团队</p>
 
     <ul>
-      <li>定制商务考察方案</li>
-      <li>著名企业实体店 / 综合商业中心参观</li>
+      <li>定制商务考察陪同方案</li>
+      <li>小微企业实体店 / 综合商业中心参观</li>
       <li>面向小微企业交流与探讨</li>
     </ul>
 
@@ -43,7 +43,7 @@ header:
     <p style="color:#888;">（1～3 人起）</p>
   </div>
 
-  <!-- 深度赋能版 -->
+  <!-- 深度商务赋能版 -->
   <div style="background:#f8fafc; padding:2em; border-radius:16px; box-shadow:0 14px 34px rgba(0,0,0,.1); border:2px solid #3b82f6;">
     <h3>
       深度赋能版
@@ -63,13 +63,13 @@ header:
     <p style="color:#888;">（4～6 人）</p>
   </div>
 
-  <!-- 医务陪同 -->
+  <!-- 商端医务陪同 -->
   <div style="background:#fff; padding:2em; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
     <h3>健康体检 · 医务陪同</h3>
     <p style="color:#666;">适合日本体检与医疗沟通需求</p>
 
     <ul>
-      <li>联系指定医疗机构或医疗代理</li>
+      <li>联系客户指定医疗机构或医疗代理</li>
       <li>预约时间与流程协调</li>
       <li>医疗活动全程陪同与沟通支持</li>
     </ul>
