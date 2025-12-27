@@ -84,12 +84,8 @@ header:
 <div style="max-width:720px; margin:2.5em auto;">
   <div class="notice--success" style="padding:2em; border-radius:16px;">
     <h3>《客户陪同及翻译服务合同（中日双语）》</h3>
-    <ul>
-      <li>适用于日本商务考察、企业拜访陪同</li>
-      <li>明确不属于旅行社 / 旅游服务</li>
-      <li>中日双语版本</li>
-    </ul>
-
+   
+      
     <div style="text-align:center; margin-top:1.8em;">
       <a href="/assets/docs/标准版_客户陪同及翻译服务合同稿.pdf"
          class="btn btn--primary btn--large"
@@ -104,3 +100,4 @@ header:
     </p>
   </div>
 </div>
+
