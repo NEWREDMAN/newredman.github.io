@@ -113,6 +113,43 @@ header:
   </a>
 </div>
 ```
+<hr style="margin:4em 0;">
+
+<h2 style="text-align:center;">合同样例下载</h2>
+<p style="text-align:center; color:#666;">
+  以下为我司标准《客户陪同及翻译服务合同》示例，供参考使用
+</p>
+
+<div style="max-width:720px; margin:2.5em auto;">
+  <div class="notice--success" style="padding:2em; border-radius:16px;">
+
+    <h3>《客户陪同及翻译服务合同（中日双语）》</h3>
+
+    <ul>
+      <li>适用于日本商务考察、企业拜访陪同</li>
+      <li>明确不属于旅行社 / 旅游服务</li>
+      <li>中日双语版本，符合日本法律环境</li>
+      <li>供客户了解合同结构与条款示例</li>
+    </ul>
+
+    <div style="text-align:center; margin-top:1.8em;">
+      <a
+        href="/assets/docs/标准版_客户陪同及翻译服务合同稿.pdf"
+        class="btn btn--primary btn--large"
+        target="_blank"
+        download
+      >
+        下载合同 PDF
+      </a>
+    </div>
+
+    <p style="font-size:0.9em; color:#888; margin-top:1em; text-align:center;">
+      * 实际合同内容以双方最终签署版本为准
+    </p>
+
+  </div>
+</div>
+
 
 
 
