@@ -95,9 +95,10 @@ header:
 ---
 
 <div style="text-align:center; margin:3em 0;">
-  <a href="/cn/contact/" class="btn btn--primary btn--large">
-    咨询 网站建设服务
+  <a href="/cn/webprices/" class="btn btn--primary btn--large">
+    查看网站建设服务产品报价
   </a>
 </div>
 ```
+
 
