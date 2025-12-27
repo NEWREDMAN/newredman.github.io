@@ -4,120 +4,89 @@ title: 小微企业信息化与 AI 赋能服务
 permalink: /cn/aiprices/
 
 ---
+<h2 style="text-align:center; margin-top:2.5em;">
+  IT + AI 赋能服务分级与报价
+</h2>
+<p style="text-align:center; color:#666;">
+  面向中小企业的数字化与 AI 应用支持，按实际需求提供可落地方案
+</p>
 
+<div style="
+  display:grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px,1fr));
+  gap:2em;
+  margin-top:3em;
+">
 
-> **用 AI 和信息化，让小微企业少用人、多做事、管得住。**
+  <!-- IT 基础支持 -->
+  <div style="background:#fff; padding:2em; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
+    <h3>IT 基础支持版</h3>
+    <p style="color:#666;">适合尚未系统化信息化的企业</p>
 
----
+    <ul>
+      <li>企业 IT 现状评估</li>
+      <li>基础系统选型建议</li>
+      <li>办公效率工具导入</li>
+      <li>信息化流程梳理</li>
+    </ul>
 
-## 我们解决什么问题？
+    <p style="font-size:1.4em; font-weight:600; margin-top:1.2em;">
+      20 万～40 万日元
+    </p>
+  </div>
 
-- 人不多，但事情永远做不完  
-- 管理依赖微信、Excel 和记忆  
-- 老板很忙，却看不到效率提升  
-- 请不起更多人，又不敢上复杂系统
+  <!-- IT + AI 提效 -->
+  <div style="background:#f8fafc; padding:2em; border-radius:16px; box-shadow:0 14px 34px rgba(0,0,0,.1); border:2px solid #3b82f6;">
+    <h3>
+      IT + AI 提效版
+      <span style="color:#3b82f6; font-size:0.9em;">（推荐）</span>
+    </h3>
+    <p style="color:#666;">适合希望提升效率与决策能力的企业</p>
 
-**我们的目标：**  
-用“刚刚好”的信息化与 AI，帮助企业 **降本、提效、好管理**。
+    <ul>
+      <li>业务流程数字化梳理</li>
+      <li>AI 工具选型与部署</li>
+      <li>AI 助理 / 智能问答导入</li>
+      <li>内部效率与自动化优化</li>
+    </ul>
 
----
+    <p style="font-size:1.5em; font-weight:600; margin-top:1.2em;">
+      40 万～80 万日元
+    </p>
+  </div>
 
-## IT + AI 一体化赋能方案（一个完整产品）
+  <!-- AI 深度定制 -->
+  <div style="background:#fff; padding:2em; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,.08);">
+    <h3>AI 深度定制赋能</h3>
+    <p style="color:#666;">适合有明确 AI 应用目标的企业</p>
 
-我们提供的不是“信息化 + AI”的拼装服务，而是 **一个完整的一体化解决方案**：
+    <ul>
+      <li>AI 应用场景深度分析</li>
+      <li>定制 AI 模型或系统集成</li>
+      <li>数据流程与自动化设计</li>
+      <li>持续优化与技术支持</li>
+    </ul>
 
-> **先用信息化把流程跑顺，再用 AI 把效率拉高。**
+    <p style="font-size:1.4em; font-weight:600; margin-top:1.2em;">
+      80 万日元起
+    </p>
+  </div>
 
-两者缺一不可，也不单独销售。
+</div>
 
----
+<div class="notice--info" style="margin-top:3em;">
+  <strong>说明：</strong><br>
+  IT + AI 服务以企业实际需求为导向，报价将根据业务规模、系统复杂度及实施周期进行调整。
+</div>
 
-### 一体化解决内容
+<div class="notice--warning" style="margin-top:1.5em;">
+  <strong>费用说明：</strong><br>
+  报价不包含第三方软件订阅费用、云服务费用及硬件采购费用，如有需要可协助选型。
+</div>
 
-**① 流程与系统打底（信息化）**
+<div style="text-align:center; margin:3em 0;">
+  <a href="/cn/contact/" class="btn btn--primary btn--large">
+    咨询 IT + AI 赋能方案
+  </a>
+</div>
 
-- 企业现状诊断与业务梳理
-- 轻量化办公与业务流程设计
-- 客户、任务、文档、数据统一管理
-- 员工培训与操作说明
-
-**② AI 深度嵌入流程（提效）**
-
-- AI 自动生成周报 / 月报 / 工作总结
-- 会议纪要与执行要点整理
-- 管理制度、流程文档生成
-- 文案、合同、报告、客户回复生成
-- 数据整理与简单分析
-
-👉 **AI 不是单独用，而是嵌入到每天的工作流程中。**
-
----
-
-### 一体化带来的实际效果
-
-- 管理流程清晰、可追踪
-- 管理者时间减少 50% 以上
-- 员工效率提升 2–3 倍
-- 明显减少对人工数量的依赖
-
----
-
-## 服务方案与报价
-
-
-### 🔹 信息化基础启动包
-
-- 信息化诊断
-- 基础流程搭建
-- 员工基础培训
-
-**周期**：2–3 周  
-**价格**：¥8,000 – ¥15,000
-
----
-
-### 🔹 信息化 + AI 管理提效包（推荐）
-
-- 流程优化与工具配置
-- AI 管理助理定制
-- 管理层 AI 培训
-- 模板与操作手册
-
-**周期**：1–2 个月  
-**价格**：¥20,000 – ¥35,000
-
----
-
-### 🔹 全流程 AI 赋能方案
-
-- 全面信息化梳理
-- 管理 + 员工 AI 应用设计
-- 岗位级 AI 工作流程
-- Prompt 库建设
-- 3 个月持续优化
-
-**周期**：3 个月  
-**价格**：¥50,000 – ¥80,000
-
----
-
-### 🔄 长期顾问服务（可选）
-
-- 每月持续优化与支持
-- 在线答疑 + 定期复盘
-
-**价格**：¥3,000 – ¥6,000 / 月
-
----
-
-## 合作流程
-
-1. 初步沟通，了解企业情况
-2. 定制方案与确认报价
-3. 签订服务协议
-4. 项目实施与交付
-5. 持续优化支持
-
----
-
-> 📩 欢迎联系我们，获取适合您企业的专属方案。
