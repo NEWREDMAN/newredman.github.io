@@ -84,7 +84,8 @@ header:
   </ul>
   <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
   <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
-</div
+</div>
+
 
   <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
   <img src="/assets/images/p06.jpg" alt="日本高端服饰系列" style="width:100%; border-radius:10px; margin-bottom:1em;">
