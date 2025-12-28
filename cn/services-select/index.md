@@ -67,3 +67,29 @@ header:
   </a>
 </div>
 
+<!-- 商品卡片 -->
+<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
+
+  <img
+    src="/assets/images/products/商品图片.jpg"
+    alt="商品名称"
+    style="width:100%; border-radius:10px; margin-bottom:1em;">
+
+  <h3 style="font-size:1.05em;">商品名称</h3>
+  <p style="color:#888; font-size:0.9em;">商品分类 / 品牌</p>
+
+  <ul style="font-size:0.9em;">
+    <li>卖点 1</li>
+    <li>卖点 2</li>
+  </ul>
+
+  <p style="color:#666; font-size:0.9em;">
+    价格以咨询时为准
+  </p>
+
+  <a href="/cn/contact/"
+     class="btn btn--outline btn--small">
+    咨询选购
+  </a>
+
+</div>
