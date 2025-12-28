@@ -27,8 +27,8 @@ header:
 ">
 
 <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/p01.jpg" alt="资生堂高端护肤套装" style="width:100%; border-radius:10px; margin-bottom:1em;">
-  <h3 style="font-size:1.05em;">资生堂高端护肤套装</h3>
+  <img src="/assets/images/p01.jpg" alt="日本本土高端化妆品" style="width:100%; border-radius:10px; margin-bottom:1em;">
+  <h3 style="font-size:1.05em;">SK-II、资生堂高端护肤套装</h3>
   <p style="color:#888; font-size:0.9em;">美妆 · 资生堂</p>
   <ul style="font-size:0.9em;">
     <li>日本本土专供</li>
@@ -53,6 +53,42 @@ header:
 <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
   <img src="/assets/images/p03.jpg" alt="日本高品质生活用品" style="width:100%; border-radius:10px; margin-bottom:1em;">
   <h3 style="font-size:1.05em;">日本高品质生活用品</h3>
+  <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
+  <ul style="font-size:0.9em;">
+    <li>做工精细</li>
+    <li>日本家庭常用</li>
+  </ul>
+  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
+  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+</div>
+
+<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
+  <img src="/assets/images/p04.jpg" alt="日本高品质小家电" style="width:100%; border-radius:10px; margin-bottom:1em;">
+  <h3 style="font-size:1.05em;">日本原产地高品质小家电</h3>
+  <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
+  <ul style="font-size:0.9em;">
+    <li>做工精细</li>
+    <li>日本家庭常用</li>
+  </ul>
+  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
+  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+</div>
+
+<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
+  <img src="/assets/images/p05.jpg" alt="世界奢侈品代购" style="width:100%; border-radius:10px; margin-bottom:1em;">
+  <h3 style="font-size:1.05em;">世界奢侈品代购</h3>
+  <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
+  <ul style="font-size:0.9em;">
+    <li>做工精细</li>
+    <li>日本家庭常用</li>
+  </ul>
+  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
+  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+</div
+
+  <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
+  <img src="/assets/images/p06.jpg" alt="日本高端服饰系列" style="width:100%; border-radius:10px; margin-bottom:1em;">
+  <h3 style="font-size:1.05em;">日本本土产高级服装、跑鞋</h3>
   <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
   <ul style="font-size:0.9em;">
     <li>做工精细</li>
