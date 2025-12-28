@@ -27,7 +27,7 @@ header:
 ">
 
 <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/products/p01.jpg" alt="资生堂高端护肤套装" style="width:100%; border-radius:10px; margin-bottom:1em;">
+  <img src="/assets/images/p01.jpg" alt="资生堂高端护肤套装" style="width:100%; border-radius:10px; margin-bottom:1em;">
   <h3 style="font-size:1.05em;">资生堂高端护肤套装</h3>
   <p style="color:#888; font-size:0.9em;">美妆 · 资生堂</p>
   <ul style="font-size:0.9em;">
@@ -39,7 +39,7 @@ header:
 </div>
 
 <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/products/p02.jpg" alt="日本机能性保健食品" style="width:100%; border-radius:10px; margin-bottom:1em;">
+  <img src="/assets/images/p02.jpg" alt="日本机能性保健食品" style="width:100%; border-radius:10px; margin-bottom:1em;">
   <h3 style="font-size:1.05em;">日本机能性保健食品</h3>
   <p style="color:#888; font-size:0.9em;">健康 · 本土品牌</p>
   <ul style="font-size:0.9em;">
@@ -51,7 +51,7 @@ header:
 </div>
 
 <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/products/p03.jpg" alt="日本高品质生活用品" style="width:100%; border-radius:10px; margin-bottom:1em;">
+  <img src="/assets/images/p03.jpg" alt="日本高品质生活用品" style="width:100%; border-radius:10px; margin-bottom:1em;">
   <h3 style="font-size:1.05em;">日本高品质生活用品</h3>
   <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
   <ul style="font-size:0.9em;">
