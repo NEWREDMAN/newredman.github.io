@@ -9,8 +9,8 @@ header:
   overlay_filter: 0.3
   overlay_color: "#000"
   actions:
-    - label: "联系我们"
-      url: "/cn/contact/"
+    - label: "名优商品推荐"
+      url: "/cn/services-select/"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
@@ -129,5 +129,6 @@ header:
   </a>
 </div>
 ```
+
 
 
