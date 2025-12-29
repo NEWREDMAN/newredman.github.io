@@ -95,11 +95,12 @@ header:
 ---
 
 <div style="text-align:center; margin:3em 0;">
-  <a href="/cn/contact/" class="btn btn--primary btn--large">
-    咨询 IT 服务入口
+  <a href="/cn/aiprices/" class="btn btn--primary btn--large">
+    查看各项服务报价
   </a>
 </div>
 ```
+
 
 
 
