@@ -12,6 +12,7 @@ header:
     - label: "咨询选购服务"
       url: "/cn/contact/"
 ---
+
 <h2 style="text-align:center; margin-top:2.5em;">
   日本名品 · 优品选购
 </h2>
