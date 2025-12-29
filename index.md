@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 嘉美技術株式会社
+title: 嘉技術株式会社
 ---
 <div style="max-width:720px; margin:6em auto; text-align:center;">
 
