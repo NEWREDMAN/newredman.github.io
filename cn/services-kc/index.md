@@ -69,8 +69,8 @@ header:
 </div>
 
 <div style="text-align:center; margin:3em 0;">
-  <a href="/cn/contact/" class="btn btn--primary btn--large">
-    咨询 日本商务考察支持
+  <a href="/cn/kcprices/" class="btn btn--primary btn--large">
+    查看日本商务考察服务及报价
   </a>
 </div>
 
@@ -100,4 +100,5 @@ header:
     </p>
   </div>
 </div>
+
 
