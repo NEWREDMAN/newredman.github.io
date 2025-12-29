@@ -23,7 +23,7 @@ header:
 <div class="product-grid">
 
   <!-- ⭐ 重点推荐商品 -->
-  <div class="product-card featured">
+  <div class="product-card">
     <img src="/assets/images/p01.jpg" alt="日本本土高端化妆品">
     <h3>SK-II、资生堂高端护肤套装</h3>
     <p class="tag">美妆 · 资生堂</p>
