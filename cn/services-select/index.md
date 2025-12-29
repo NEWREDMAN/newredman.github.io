@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.3
   overlay_color: "#000"
   actions:
-    - label: "咨询选购服务"
+    - label: "联系我们"
       url: "/cn/contact/"
 ---
 
