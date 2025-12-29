@@ -19,82 +19,144 @@ header:
   精选日本市场高品质商品，提供选购建议与代办支持
 </p>
 
-<div style="
-  display:grid;
+<div class="product-grid">
+
+  <!-- 商品 1 -->
+  <div class="product-card">
+    <img src="/assets/images/p01.jpg" alt="日本本土高端化妆品">
+    <h3>SK-II、资生堂高端护肤套装</h3>
+    <p class="tag">美妆 · 资生堂</p>
+    <ul>
+      <li>日本本土专供</li>
+      <li>适合商务礼赠</li>
+    </ul>
+    <p class="price">价格以咨询时为准</p>
+    <div class="spacer"></div>
+    <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+  </div>
+
+  <!-- 商品 2 -->
+  <div class="product-card">
+    <img src="/assets/images/p02.jpg" alt="日本机能性保健食品">
+    <h3>日本机能性保健食品</h3>
+    <p class="tag">健康 · 本土品牌</p>
+    <ul>
+      <li>机能性标示食品</li>
+      <li>适合长期服用</li>
+    </ul>
+    <p class="price">价格以咨询时为准</p>
+    <div class="spacer"></div>
+    <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+  </div>
+
+  <!-- 商品 3 -->
+  <div class="product-card">
+    <img src="/assets/images/p03.jpg" alt="日本高品质生活用品">
+    <h3>日本高品质生活用品</h3>
+    <p class="tag">生活 · 日用精选</p>
+    <ul>
+      <li>做工精细</li>
+      <li>日本家庭常用</li>
+    </ul>
+    <p class="price">价格以咨询时为准</p>
+    <div class="spacer"></div>
+    <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+  </div>
+
+  <!-- 商品 4 -->
+  <div class="product-card">
+    <img src="/assets/images/p04.jpg" alt="日本高品质小家电">
+    <h3>日本原产地高品质小家电</h3>
+    <p class="tag">生活 · 日用精选</p>
+    <ul>
+      <li>做工精细</li>
+      <li>日本家庭常用</li>
+    </ul>
+    <p class="price">价格以咨询时为准</p>
+    <div class="spacer"></div>
+    <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+  </div>
+
+  <!-- 商品 5 -->
+  <div class="product-card">
+    <img src="/assets/images/p05.jpg" alt="世界奢侈品代购">
+    <h3>世界奢侈品代购</h3>
+    <p class="tag">精选 · 高端品牌</p>
+    <ul>
+      <li>正规渠道</li>
+      <li>适合定制选购</li>
+    </ul>
+    <p class="price">价格以咨询时为准</p>
+    <div class="spacer"></div>
+    <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+  </div>
+
+  <!-- 商品 6 -->
+  <div class="product-card">
+    <img src="/assets/images/p06.jpg" alt="日本高端服饰系列">
+    <h3>日本本土产高级服装、跑鞋</h3>
+    <p class="tag">服饰 · 本土品牌</p>
+    <ul>
+      <li>舒适耐用</li>
+      <li>日本市场主流款</li>
+    </ul>
+    <p class="price">价格以咨询时为准</p>
+    <div class="spacer"></div>
+    <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
+  </div>
+
+</div>
+
+<style>
+.product-grid {
+  display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap:1.8em;
-  margin-top:3em;
-">
+  gap: 1.8em;
+  margin-top: 3em;
+}
 
-<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/p01.jpg" alt="日本本土高端化妆品" style="width:100%; border-radius:10px; margin-bottom:1em;">
-  <h3 style="font-size:1.05em;">SK-II、资生堂高端护肤套装</h3>
-  <p style="color:#888; font-size:0.9em;">美妆 · 资生堂</p>
-  <ul style="font-size:0.9em;">
-    <li>日本本土专供</li>
-    <li>适合商务礼赠</li>
-  </ul>
-  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
-  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
-</div>
+.product-card {
+  background: #fff;
+  padding: 1.5em;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+  display: flex;
+  flex-direction: column;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
 
-<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/p02.jpg" alt="日本机能性保健食品" style="width:100%; border-radius:10px; margin-bottom:1em;">
-  <h3 style="font-size:1.05em;">日本机能性保健食品</h3>
-  <p style="color:#888; font-size:0.9em;">健康 · 本土品牌</p>
-  <ul style="font-size:0.9em;">
-    <li>机能性标示食品</li>
-    <li>适合长期服用</li>
-  </ul>
-  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
-  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
-</div>
+.product-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0,0,0,.12);
+}
 
-<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/p03.jpg" alt="日本高品质生活用品" style="width:100%; border-radius:10px; margin-bottom:1em;">
-  <h3 style="font-size:1.05em;">日本高品质生活用品</h3>
-  <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
-  <ul style="font-size:0.9em;">
-    <li>做工精细</li>
-    <li>日本家庭常用</li>
-  </ul>
-  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
-  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
-</div>
+.product-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1em;
+}
 
-<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/p04.jpg" alt="日本高品质小家电" style="width:100%; border-radius:10px; margin-bottom:1em;">
-  <h3 style="font-size:1.05em;">日本原产地高品质小家电</h3>
-  <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
-  <ul style="font-size:0.9em;">
-    <li>做工精细</li>
-    <li>日本家庭常用</li>
-  </ul>
-  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
-  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
-</div>
+.product-card h3 {
+  font-size: 1.05em;
+  min-height: 2.6em;
+}
 
-<div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/p05.jpg" alt="世界奢侈品代购" style="width:100%; border-radius:10px; margin-bottom:1em;">
-  <h3 style="font-size:1.05em;">世界奢侈品代购</h3>
-  <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
-  <ul style="font-size:0.9em;">
-    <li>做工精细</li>
-    <li>日本家庭常用</li>
-  </ul>
-  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
-  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
-</div>
+.product-card .tag {
+  color: #888;
+  font-size: 0.9em;
+}
 
+.product-card ul {
+  font-size: 0.9em;
+  padding-left: 1.1em;
+}
 
-  <div style="background:#fff; padding:1.5em; border-radius:14px; box-shadow:0 10px 25px rgba(0,0,0,.08);">
-  <img src="/assets/images/p06.jpg" alt="日本高端服饰系列" style="width:100%; border-radius:10px; margin-bottom:1em;">
-  <h3 style="font-size:1.05em;">日本本土产高级服装、跑鞋</h3>
-  <p style="color:#888; font-size:0.9em;">生活 · 日用精选</p>
-  <ul style="font-size:0.9em;">
-    <li>做工精细</li>
-    <li>日本家庭常用</li>
-  </ul>
-  <p style="color:#666; font-size:0.9em;">价格以咨询时为准</p>
-  <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
-</div>
+.product-card .price {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.product-card .spacer {
+  flex: 1;
+}
+</style>
