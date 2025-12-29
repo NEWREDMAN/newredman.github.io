@@ -19,7 +19,27 @@ header:
   精选日本市场高品质商品，提供选购建议与代办支持
 </p>
 
-<div class="product-grid">
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.8em;
+  margin-top: 3em;
+}
+
+/* 平板 */
+@media (max-width: 1024px) {
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 手机 */
+@media (max-width: 640px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 
   <!-- 商品 1 -->
   <div class="product-card">
