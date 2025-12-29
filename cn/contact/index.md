@@ -12,6 +12,50 @@ classes: wide
 </div>
 
 ---
+<hr style="margin:4em 0;">
+
+<h2 style="text-align:center;">
+  到访预约（需提前预约）
+</h2>
+
+<p style="text-align:center; color:#666;">
+  如需到访我司福冈办公室，请提前通过下方预约系统提交申请
+</p>
+<div style="max-width:720px; margin:2.5em auto;">
+
+  <form action="https://formspree.io/f/mvzowdgl" method="POST">
+
+    <input type="hidden" name="language" value="CN">
+
+    <label>来访日期</label>
+    <input type="date" name="visit_date" required>
+
+    <label>来访时间</label>
+    <input type="time" name="visit_time" required>
+
+    <label>来访目的</label>
+    <textarea name="purpose" rows="3" required></textarea>
+
+    <label>公司 / 姓名</label>
+    <input type="text" name="name" required>
+
+    <label>邮箱</label>
+    <input type="email" name="email" required>
+
+    <div style="text-align:center; margin-top:1.5em;">
+      <button type="submit" class="btn btn--primary btn--large">
+        提交预约
+      </button>
+    </div>
+
+  </form>
+
+</div>
+
+<p style="text-align:center; font-size:0.9em; color:#888; margin-top:1em;">
+  ※ 提交预约后，我司将通过邮件确认是否可接待，预约未确认前不视为最终成立
+</p>
+
 
 ## 公司信息
 
@@ -55,29 +99,6 @@ classes: wide
 
 ---
 
-## 合作与服务客户示例
-
-<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:1.5em; margin-top:2em;">
-
-  <div class="notice--primary">
-    <h3>中小企业客户</h3>
-    <p>为中小企业提供 IT 咨询、网站建设与长期技术支持。</p>
-  </div>
-
-  <div class="notice--primary">
-    <h3>跨境业务团队</h3>
-    <p>支持中日之间的商务考察、选品与合作对接。</p>
-  </div>
-
-  <div class="notice--primary">
-    <h3>长期合作伙伴</h3>
-    <p>以技术与信任为基础，建立持续合作关系。</p>
-  </div>
-
-</div>
-
----
-
 ## 联系方式说明
 
 <p>
@@ -91,6 +112,7 @@ classes: wide
   </a>
 </div>
 ```
+
 
 
 
