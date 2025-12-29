@@ -12,8 +12,6 @@ classes: wide
   </p>
 </div>
 
-<hr style="margin:4em 0;">
-
 <!-- 到访预约模块 -->
 <section style="max-width:980px; margin:0 auto;">
 
@@ -153,3 +151,4 @@ classes: wide
   </a>
 
 </section>
+
