@@ -124,11 +124,12 @@ header:
 ---
 
 <div style="text-align:center; margin:3em 0;">
-  <a href="/cn/contact/" class="btn btn--primary btn--large">
-    咨询 日本优品选品与技术支持
+  <a href="/cn/services-select/" class="btn btn--primary btn--large">
+    查看推荐产品目录
   </a>
 </div>
 ```
+
 
 
 
