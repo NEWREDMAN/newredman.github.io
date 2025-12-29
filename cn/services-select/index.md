@@ -102,3 +102,74 @@ header:
   </div>
 
 </div>
+<style>
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.8em;
+  margin-top: 3em;
+}
+
+/* 平板 */
+@media (max-width: 1024px) {
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 手机 */
+@media (max-width: 640px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.product-card {
+  background: #fff;
+  padding: 1.5em;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,.08);
+  display: flex;
+  flex-direction: column;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px rgba(0,0,0,.12);
+}
+
+.product-card.featured {
+  grid-column: span 2;
+}
+
+.product-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1em;
+}
+
+.product-card h3 {
+  font-size: 1.05em;
+  min-height: 2.6em;
+}
+
+.product-card .tag {
+  color: #888;
+  font-size: 0.9em;
+}
+
+.product-card ul {
+  font-size: 0.9em;
+  padding-left: 1.1em;
+}
+
+.product-card .price {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.product-card .spacer {
+  flex: 1;
+}
+</style>
