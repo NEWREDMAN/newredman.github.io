@@ -1,16 +1,19 @@
 ---
 layout: splash
 title: 嘉美技術株式会社
-nav: main
+lang: ja
+permalink: /jp/
 classes: wide
 header:
-  overlay_image: /assets/images/cn-hero.jpg
+  overlay_image: "{{ site.baseurl }}/assets/images/cn-hero.jpg"
   overlay_filter: 0.3
   overlay_color: "#000"
   actions:
     - label: "お問い合わせ"
-      url: "/jp/contact/"
+      url: "{{ site.baseurl }}/jp/contact/"
 ---
+
+
 
 ## 技術を軸に、中日企業を支えるデジタルパートナー
 
