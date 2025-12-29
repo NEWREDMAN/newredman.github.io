@@ -1,40 +1,27 @@
 cn:
   - title: "首页"
-    url: /cn/
-
-  - title: "IT+AI赋能企业"
-    url: /cn/services-it/
-
+    url: "{{ site.baseurl }}/cn/"
+  - title: "IT 咨询与解决方案"
+    url: "{{ site.baseurl }}/cn/services-it/"
   - title: "企业网站建设"
-    url: /cn/services-web/
-
+    url: "{{ site.baseurl }}/cn/services-web/"
   - title: "日本商务考察支持"
-    url: /cn/services-kc/
-
-  - title: "日本优品选品"
-    url: /cn/services-sp/
-
+    url: "{{ site.baseurl }}/cn/services-kc/"
+  - title: "关于我们"
+    url: "{{ site.baseurl }}/cn/about/"
   - title: "联系我们"
-    url: /cn/contact/
-
+    url: "{{ site.baseurl }}/cn/contact/"
 
 jp:
   - title: "ホーム"
-    url: /jp/
-
-  - title: "IT・AIソリューション"
-    url: /jp/services-it/
-
-  - title: "Webサイト制作"
-    url: /jp/services-web/
-
-  - title: "ビジネス視察支援"
-    url: /jp/services-kc/
-
-  - title: "日本製品選定支援"
-    url: /jp/services-sp/
-
+    url: "{{ site.baseurl }}/jp/"
+  - title: "IT・AI支援"
+    url: "{{ site.baseurl }}/jp/services-it/"
+  - title: "システム・Web構築"
+    url: "{{ site.baseurl }}/jp/services-web/"
+  - title: "日本ビジネス支援"
+    url: "{{ site.baseurl }}/jp/services-kc/"
+  - title: "会社概要"
+    url: "{{ site.baseurl }}/jp/about/"
   - title: "お問い合わせ"
-    url: /jp/contact/
-
-
+    url: "{{ site.baseurl }}/jp/contact/"
