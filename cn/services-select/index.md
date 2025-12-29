@@ -19,30 +19,10 @@ header:
   精选日本市场高品质商品，提供选购建议与代办支持
 </p>
 
-.product-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.8em;
-  margin-top: 3em;
-}
+<div class="product-grid">
 
-/* 平板 */
-@media (max-width: 1024px) {
-  .product-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-/* 手机 */
-@media (max-width: 640px) {
-  .product-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-
-  <!-- 商品 1 -->
-  <div class="product-card">
+  <!-- ⭐ 重点推荐商品 -->
+  <div class="product-card featured">
     <img src="/assets/images/p01.jpg" alt="日本本土高端化妆品">
     <h3>SK-II、资生堂高端护肤套装</h3>
     <p class="tag">美妆 · 资生堂</p>
@@ -55,7 +35,6 @@ header:
     <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
   </div>
 
-  <!-- 商品 2 -->
   <div class="product-card">
     <img src="/assets/images/p02.jpg" alt="日本机能性保健食品">
     <h3>日本机能性保健食品</h3>
@@ -69,7 +48,6 @@ header:
     <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
   </div>
 
-  <!-- 商品 3 -->
   <div class="product-card">
     <img src="/assets/images/p03.jpg" alt="日本高品质生活用品">
     <h3>日本高品质生活用品</h3>
@@ -83,7 +61,6 @@ header:
     <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
   </div>
 
-  <!-- 商品 4 -->
   <div class="product-card">
     <img src="/assets/images/p04.jpg" alt="日本高品质小家电">
     <h3>日本原产地高品质小家电</h3>
@@ -97,7 +74,6 @@ header:
     <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
   </div>
 
-  <!-- 商品 5 -->
   <div class="product-card">
     <img src="/assets/images/p05.jpg" alt="世界奢侈品代购">
     <h3>世界奢侈品代购</h3>
@@ -111,7 +87,6 @@ header:
     <a href="/cn/contact/" class="btn btn--outline btn--small">咨询选购</a>
   </div>
 
-  <!-- 商品 6 -->
   <div class="product-card">
     <img src="/assets/images/p06.jpg" alt="日本高端服饰系列">
     <h3>日本本土产高级服装、跑鞋</h3>
@@ -126,57 +101,3 @@ header:
   </div>
 
 </div>
-
-<style>
-.product-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 1.8em;
-  margin-top: 3em;
-}
-
-.product-card {
-  background: #fff;
-  padding: 1.5em;
-  border-radius: 14px;
-  box-shadow: 0 10px 25px rgba(0,0,0,.08);
-  display: flex;
-  flex-direction: column;
-  transition: transform .25s ease, box-shadow .25s ease;
-}
-
-.product-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 18px 40px rgba(0,0,0,.12);
-}
-
-.product-card img {
-  width: 100%;
-  border-radius: 10px;
-  margin-bottom: 1em;
-}
-
-.product-card h3 {
-  font-size: 1.05em;
-  min-height: 2.6em;
-}
-
-.product-card .tag {
-  color: #888;
-  font-size: 0.9em;
-}
-
-.product-card ul {
-  font-size: 0.9em;
-  padding-left: 1.1em;
-}
-
-.product-card .price {
-  color: #666;
-  font-size: 0.9em;
-}
-
-.product-card .spacer {
-  flex: 1;
-}
-</style>
