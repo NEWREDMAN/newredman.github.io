@@ -1,14 +1,18 @@
 title: 嘉美技术株式会社
 locale: zh-CN
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-primer
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 defaults:
   - scope:
-      path: ""
+      path: "cn"
     values:
       nav: main-cn
+  - scope:
+      path: "jp"
+    values:
+      nav: main-jp
+
