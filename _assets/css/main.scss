@@ -1,0 +1,43 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+/* ================================
+   LOGO 与顶部栏优化（日系克制风）
+   ================================ */
+
+.masthead__inner-wrap {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+}
+
+.site-logo img {
+  max-height: 40px;   /* 比默认更精致 */
+}
+
+.site-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.site-subtitle {
+  font-size: 0.75rem;
+  color: #777;
+}
+
+/* ================================
+   主按钮（科技蓝）
+   ================================ */
+
+.btn--primary {
+  background-color: #2C7BE5;
+  border-color: #2C7BE5;
+}
+
+.btn--primary:hover {
+  background-color: #1f63c6;
+  border-color: #1f63c6;
+}
