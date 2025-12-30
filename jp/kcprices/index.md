@@ -2,7 +2,7 @@
 layout: splash
 title: 日本ビジネス視察サービス・料金
 permalink: /jp/kcprices/
-nav: jp
+nav: main-jp
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
