@@ -1,8 +1,3 @@
-title: 嘉美技术株式会社
-locale: zh-CN
-
+title: JIAMEI Technology
+description: Test site
 theme: jekyll-theme-primer
-
-plugins:
-  - jekyll-seo-tag
-
