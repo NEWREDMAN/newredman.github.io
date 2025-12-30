@@ -1,9 +1,7 @@
 ---
-layout: splash
+
 title: IT・AIによる企業成長支援
-permalink: /jp/aiprices/
-nav: main-jp
-classes: wide
+
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
