@@ -1,18 +1,7 @@
-<div style="text-align:right; margin-bottom:1em;">
-  <a href="{{ site.baseurl }}/jp/" style="text-decoration:none;">
-    日本語
-  </a>
-</div>
-
 ---
-
-layout: default
-title: 嘉美技术株式会社
-lang: zh-CN
-nav: cn
-permalink: /
----
-
+layout: splash
+title: 嘉美技術株式会社
+nav: false
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -22,6 +11,7 @@ header:
     - label: "联系我们"
       url: "/cn/contact/"
 ---
+
 
 ## 技术驱动 · 服务中日企业的数字化合作伙伴
 
