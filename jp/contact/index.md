@@ -1,7 +1,5 @@
 ---
-layout: single
-permalink: /jp/contact/
-classes: wide
+
 ---
 
 <!-- ページタイトル -->
