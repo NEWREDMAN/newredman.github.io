@@ -1,0 +1,9 @@
+title: 嘉美技术株式会社
+remote_theme: "mmistakes/minimal-mistakes"
+locale: zh-CN
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      nav: main-cn
