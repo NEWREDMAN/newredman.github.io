@@ -1,6 +1,15 @@
 ---
-layout: default
-title: 嘉美技术株式会社
+layout: single
+title: 嘉美技術株式会社
+navigation: main-cn 
+classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "联系我们"
+      url: "/cn/contact/"
 ---
 
 ## 技术驱动 · 服务中日企业的数字化合作伙伴
