@@ -1,7 +1,16 @@
 ---
-layout: default
-title: 嘉技術株式会社
+layout: splash
+title: 嘉美技術株式会社
+classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "联系我们"
+      url: "/cn/contact/"
 ---
+
 <div style="max-width:720px; margin:6em auto; text-align:center;">
 
   <h1>嘉美技術株式会社</h1>
