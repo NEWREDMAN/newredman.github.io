@@ -2,7 +2,7 @@
 layout: splash
 title: 企业网站建设
 permalink: /cn/services-web/
-nav: main
+nav: main-cn
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -100,5 +100,6 @@ header:
   </a>
 </div>
 ```
+
 
 
