@@ -2,16 +2,16 @@
 # Only the main Sass file needs front matter
 ---
 
-@import "minimal-mistakes";
+/* 不要 @import minimal-mistakes */
 
 /* ===== LOGO + 标题微调 ===== */
 
 .masthead__inner-wrap .site-logo img {
-  max-height: 42px;   /* 控制 LOGO 高度（日系常用 36–44） */
+  max-height: 42px;
 }
 
 .masthead__inner-wrap .site-title {
-  font-size: 1.1rem; /* 公司名稍微克制 */
+  font-size: 1.1rem;
   font-weight: 600;
 }
 
@@ -19,8 +19,6 @@
   font-size: 0.75rem;
   color: #777;
 }
-
-/* ===== 主按钮改为科技蓝 ===== */
 
 .btn--primary {
   background-color: #2C7BE5 !important;
@@ -32,3 +30,4 @@
   background-color: #1f63c6 !important;
   border-color: #1f63c6 !important;
 }
+
