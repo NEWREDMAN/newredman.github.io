@@ -1,6 +1,11 @@
 title: 嘉美技术株式会社
-remote_theme: "mmistakes/minimal-mistakes"
 locale: zh-CN
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 defaults:
   - scope:
