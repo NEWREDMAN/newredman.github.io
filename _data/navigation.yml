@@ -1,3 +1,6 @@
+header:
+  nav: false
+
 cn:
   - title: "首页"
     url: "{{ site.baseurl }}/cn/"
@@ -25,3 +28,4 @@ jp:
     url: "{{ site.baseurl }}/jp/about/"
   - title: "お問い合わせ"
     url: "{{ site.baseurl }}/jp/contact/"
+
