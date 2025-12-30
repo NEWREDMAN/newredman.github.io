@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: default
 permalink: /cn/contact/
-classes: wide
+
 ---
 
 <!-- 页面标题区 -->
@@ -151,4 +151,5 @@ classes: wide
   </a>
 
 </section>
+
 
