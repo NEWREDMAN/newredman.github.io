@@ -6,13 +6,3 @@ theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
 
-defaults:
-  - scope:
-      path: "cn"
-    values:
-      nav: main-cn
-  - scope:
-      path: "jp"
-    values:
-      nav: main-jp
-
