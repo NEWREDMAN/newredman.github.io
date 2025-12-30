@@ -1,9 +1,7 @@
 ---
-layout: splash
+layout: default
 title: 赴日商务考察
-permalink: /cn/services-kc/
-nav: main
-classes: wide
+
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
@@ -100,5 +98,6 @@ header:
     </p>
   </div>
 </div>
+
 
 
