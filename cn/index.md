@@ -2,7 +2,6 @@
 layout: single
 title: 嘉美技術株式会社
 nav: main-cn
-show_nav: true
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
