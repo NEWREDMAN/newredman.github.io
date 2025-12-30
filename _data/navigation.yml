@@ -1,4 +1,4 @@
-main-cn:
+main:
   - title: "首页"
     url: /cn/
   - title: "IT 咨询与解决方案"
@@ -17,5 +17,6 @@ main-jp:
     url: /jp/services-web/
   - title: "ビジネス視察支援"
     url: /jp/services-kc/
+
 
 
