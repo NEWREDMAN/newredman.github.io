@@ -2,7 +2,7 @@
 layout: splash
 title: 日本名品优品选购
 permalink: /cn/services-sp/
-nav: main
+nav: main-cn
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -129,6 +129,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
