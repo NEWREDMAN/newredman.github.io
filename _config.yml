@@ -5,3 +5,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
 logo: /assets/images/logo.png
+
+plugins:
+  - jekyll-include-cache
