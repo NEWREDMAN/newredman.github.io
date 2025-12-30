@@ -2,7 +2,7 @@
 layout: splash
 title: Web制作サービス・料金
 permalink: /jp/webprices/
-nav: main
+nav: jp
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
