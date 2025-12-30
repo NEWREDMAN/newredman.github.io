@@ -2,7 +2,7 @@
 layout: splash
 title: 日本商务考察服务与报价
 permalink: /cn/kcprices/
-nav: main
+nav: cn
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
