@@ -2,7 +2,7 @@
 layout: splash
 title: IT・AIによる企業成長支援
 permalink: /jp/services-it/
-nav: main
+nav: jp
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
