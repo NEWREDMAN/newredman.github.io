@@ -6,19 +6,15 @@ header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
   overlay_color: "#000"
-  actions:
-    - label: "联系我们"
-      url: "/cn/contact/"
+  <p style="margin:2em 0; line-height:1.8;">
+    面向中日企业，提供技术支持、系统解决方案及本地化服务<br>
+    日中両国の企業様向けに、技術サポートおよびシステムソリューションを提供しております
+  </p>
+
 ---
 
 <div style="max-width:720px; margin:6em auto; text-align:center;">
 
-  <h1>嘉美技術株式会社</h1>
-
-  <p style="margin:2em 0; line-height:1.8;">
-    面向中日企业，提供技术支持、系统解决方案及本地化服务<br>
-    日中両国の企業様向けに、技術サポートおよびシステムソリューションを提供しております
-  </p>
 
   <div style="margin-top:3em;">
     <a href="{{ site.baseurl }}/cn/"
