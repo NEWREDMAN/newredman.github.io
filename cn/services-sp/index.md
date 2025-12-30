@@ -1,9 +1,6 @@
 ---
-layout: splash
+layout: default
 title: 日本名品优品选购
-permalink: /cn/services-sp/
-nav: main-cn
-classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
@@ -129,6 +126,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
