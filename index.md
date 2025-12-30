@@ -2,13 +2,9 @@
 layout: splash
 title: 嘉美技术株式会社
 header:
-  overlay_color: "#0b2a4a"
-  overlay_filter: "0.65"
+  overlay_color: "#000000"
+  overlay_filter: "0.6"
 ---
-
-## 嘉美技术株式会社  
-**JIAMEI Technology Co., Ltd.**
-
 ---
 
 ### 面向中日企业，提供技术支持、系统解决方案及本地化服务  
