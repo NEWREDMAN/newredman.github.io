@@ -1,9 +1,7 @@
 ---
-layout: splash
+
 title: コーポレートサイト構築
-permalink: /jp/services-web/
-nav: jp
-classes: wide
+
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
