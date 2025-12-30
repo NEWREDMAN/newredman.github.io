@@ -1,3 +1,7 @@
-title: JIAMEI Technology
+title: 嘉美技術株式会社
 description: Test site
-theme: jekyll-theme-primer
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
+logo: /assets/images/logo.png
