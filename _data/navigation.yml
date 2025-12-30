@@ -1,29 +1,19 @@
-cn:
+main-cn:
   - title: "首页"
-    url: "{{ site.baseurl }}/cn/"
+    url: /cn/
   - title: "IT 咨询与解决方案"
-    url: "{{ site.baseurl }}/cn/services-it/"
+    url: /cn/services-it/
   - title: "企业网站建设"
-    url: "{{ site.baseurl }}/cn/services-web/"
+    url: /cn/services-web/
   - title: "日本商务考察支持"
-    url: "{{ site.baseurl }}/cn/services-kc/"
-  - title: "关于我们"
-    url: "{{ site.baseurl }}/cn/about/"
-  - title: "联系我们"
-    url: "{{ site.baseurl }}/cn/contact/"
+    url: /cn/services-kc/
 
-jp:
+main-jp:
   - title: "ホーム"
-    url: "{{ site.baseurl }}/jp/"
-  - title: "IT・AI支援"
-    url: "{{ site.baseurl }}/jp/services-it/"
-  - title: "システム・Web構築"
-    url: "{{ site.baseurl }}/jp/services-web/"
-  - title: "日本ビジネス支援"
-    url: "{{ site.baseurl }}/jp/services-kc/"
-  - title: "会社概要"
-    url: "{{ site.baseurl }}/jp/about/"
-  - title: "お問い合わせ"
-    url: "{{ site.baseurl }}/jp/contact/"
-
-
+    url: /jp/
+  - title: "IT・AIソリューション"
+    url: /jp/services-it/
+  - title: "Webサイト制作"
+    url: /jp/services-web/
+  - title: "ビジネス視察支援"
+    url: /jp/services-kc/
