@@ -2,7 +2,7 @@
 layout: splash
 title: 日本ビジネス視察支援
 permalink: /jp/services-kc/
-nav: main
+nav: jp
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
