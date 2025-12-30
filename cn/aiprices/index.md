@@ -2,7 +2,7 @@
 layout: splash
 title: IT + AI 赋能企业发展
 permalink: /cn/aiprices/
-nav: main
+nav: false
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
