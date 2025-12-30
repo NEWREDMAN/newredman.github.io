@@ -1,9 +1,7 @@
 ---
-layout: splash
+layout: default
 title: 日本商务考察服务与报价
-permalink: /cn/kcprices/
-nav: cn
-classes: wide
+
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
