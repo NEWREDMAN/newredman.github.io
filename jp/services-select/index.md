@@ -2,7 +2,7 @@
 layout: splash
 title: 日本優良品・選定購入サポート
 permalink: /jp/services-select/
-nav: main
+nav: jp
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
