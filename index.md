@@ -5,7 +5,7 @@ classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
-  overlay_color: "#000"
+ 
   <div style="max-width:720px; margin:6em auto; text-align:center;">
   <p style="margin:2em 0; line-height:1.8;">
     面向中日企业，提供技术支持、系统解决方案及本地化服务<br>
