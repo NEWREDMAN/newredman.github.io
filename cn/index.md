@@ -1,9 +1,10 @@
----
 <div style="text-align:right; margin-bottom:1em;">
   <a href="{{ site.baseurl }}/jp/" style="text-decoration:none;">
     日本語
   </a>
 </div>
+
+---
 
 layout: default
 title: 嘉美技术株式会社
