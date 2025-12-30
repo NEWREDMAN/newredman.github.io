@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: 嘉美技術株式会社
 nav: main-cn
 show_nav: true
