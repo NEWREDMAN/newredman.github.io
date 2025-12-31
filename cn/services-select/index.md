@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: splash
 title: 日本名品 · 优品选购
-
+classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
@@ -9,6 +9,9 @@ header:
   actions:
     - label: "联系我们"
       url: "/cn/contact/"
+   - label: "🇯🇵 日本語"
+      url: "/cn/services-select/"
+      class: "btn--outline"     
 ---
 
 <h2 style="text-align:center; margin-top:2.5em;">
