@@ -1,22 +1,18 @@
 main:
   - title: "首页"
-    url: /cn/
+    url: /
+
+  - title: "公司介绍"
+    url: /cn/about/
+
   - title: "IT 咨询与解决方案"
     url: /cn/services-it/
+
   - title: "企业网站建设"
     url: /cn/services-web/
+
   - title: "日本商务考察支持"
     url: /cn/services-kc/
 
-main-jp:
-  - title: "ホーム"
-    url: /jp/
-  - title: "IT・AIソリューション"
-    url: /jp/services-it/
-  - title: "Webサイト制作"
-    url: /jp/services-web/
-  - title: "ビジネス視察支援"
-    url: /jp/services-kc/
-
-
-
+  - title: "联系我们"
+    url: /cn/contact/
