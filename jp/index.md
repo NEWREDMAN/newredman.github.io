@@ -1,13 +1,6 @@
 ---
-layout: home
-title: 嘉美技術株式会社
-nav: main
----
-
----
 layout: splash
 title: 嘉美技術株式会社
-nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -16,6 +9,10 @@ header:
   actions:
     - label: "お問い合わせ"
       url: "/jp/contact/"
+     - label:"简体中文"
+       url: "/cn/"
+       class: "btn--outline"
+
 ---
 
 ## 技術を軸に、中日企業を支えるデジタルパートナー
