@@ -1,9 +1,9 @@
 ---
-layout: default
+layout:splash
 title: 企业网站建设
 permalink: /cn/services-web/
-
-
+classes: wide
+nav:main
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
@@ -100,6 +100,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
