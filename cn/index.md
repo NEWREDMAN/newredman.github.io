@@ -8,20 +8,13 @@ header:
   overlay_filter: 0.3
   overlay_color: "#000"
   actions:
-    - label: "联系我们"
-      url: "/cn/contact/"
+  - label: "联系我们"
+    url: "/cn/contact/"
+  - label: "日本語"
+    url: "/jp/"
+    class: "btn--outline"
 ---
-<!-- Language Switch -->
-<div style="
-  display:flex;
-  justify-content:flex-end;
-  margin: 0.5em 0 1.2em;
-">
-  <a href="/jp/"
-     class="btn btn--outline btn--small">
-    日本語
-  </a>
-</div>
+
 
 ## 技术驱动 · 服务中日企业的数字化合作伙伴
 
