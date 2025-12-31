@@ -1,18 +1,17 @@
 ---
 layout: splash
 title: 嘉美技術株式会社
-nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
   overlay_color: "#000"
   actions:
-  - label: "联系我们"
-    url: "/cn/contact/"
-  - label: "日本語"
-    url: "/jp/"
-    class: "btn--outline"
+    - label: "联系我们"
+      url: "/cn/contact/"
+    - label: "🇯🇵 日本語"
+      url: "/jp/services-it/"
+      class: "btn--outline"
 ---
 
 
