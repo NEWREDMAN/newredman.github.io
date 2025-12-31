@@ -11,6 +11,10 @@ header:
   actions:
     - label: "咨询 IT + AI 方案"
       url: "/cn/contact/"
+    - label: "🇯🇵 日本語"
+      url: "/jp/aiprices/"
+      class: "btn--outline"  
+---
 ---
 
 ---
