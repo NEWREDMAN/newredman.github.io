@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 赴日商务考察
+classes:wide
 
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -98,6 +99,7 @@ header:
     </p>
   </div>
 </div>
+
 
 
 
