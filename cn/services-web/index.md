@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: 企业网站建设
-permalink: /jp/services-web/
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -102,6 +101,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
