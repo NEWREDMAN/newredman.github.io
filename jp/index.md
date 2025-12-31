@@ -12,7 +12,6 @@ header:
      - label:"简体中文"
        url: "/cn/"
        class: "btn--outline"
-
 ---
 
 ## 技術を軸に、中日企業を支えるデジタルパートナー
