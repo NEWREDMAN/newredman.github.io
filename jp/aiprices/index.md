@@ -2,7 +2,6 @@
 layout: splash
 title: IT・AIによる企業成長支援
 permalink: /jp/aiprices/
-nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -11,6 +10,9 @@ header:
   actions:
     - label: "IT・AI導入のご相談"
       url: "/jp/contact/"
+    - label: "🇨🇳 中文"
+      url: "/cn/aiprices/"
+      class: "btn--outline"
 ---
 
 <h2 style="text-align:center; margin-top:2.5em;">
