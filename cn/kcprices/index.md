@@ -1,14 +1,16 @@
 ---
 layout: default
 title: 日本商务考察服务与报价
-
-header:
+classes: wide
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
   overlay_color: "#000"
   actions:
     - label: "咨询商务考察方案"
       url: "/cn/contact/"
+    - label: "🇯🇵 日本語"
+      url: "/jp/kcprices/"
+      class: "btn--outline"  
 ---
 <h2 style="text-align:center; margin-top:2.5em;">
   商务考察服务分级与报价
