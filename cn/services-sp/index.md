@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: 日本名品优品选购
-nav:main
 classes:wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -10,6 +9,9 @@ header:
   actions:
     - label: "名优商品推荐"
       url: "/cn/services-select/"
+    - label: "🇯🇵 日本語"
+      url: "/cn/services-sp/"
+      class: "btn--outline"    
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
@@ -128,6 +130,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
