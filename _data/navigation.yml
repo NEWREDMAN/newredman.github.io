@@ -2,19 +2,18 @@ main:
   - title: "中文首页"
     url: /cn/
 
-  - title: "IT+AI赋能企业发展"
+  - title: "IT+AI赋能企业"
     url: /cn/services-it/
 
   - title: "企业网站建设"
     url: /cn/services-web/
 
-  - title: "日本商务考察支持"
+  - title: "日本商务考察"
     url: /cn/services-kc/
 
-  - title: "日本名品优品选购"
+  - title: "日本名品优品"
     url: /cn/services-sp/
     
   - title: "联系我们"
     url: /cn/contact/
-
 
