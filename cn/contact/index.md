@@ -1,7 +1,15 @@
 ---
-layout: default
-permalink: /cn/contact/
-
+layout: splash
+title: 联系我们
+classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "🇯🇵 日本語"
+      url: "/jp/contact/"
+      class: "btn--outline"  
 ---
 
 <!-- 页面标题区 -->
@@ -151,5 +159,6 @@ permalink: /cn/contact/
   </a>
 
 </section>
+
 
 
