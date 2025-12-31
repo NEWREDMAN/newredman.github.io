@@ -22,6 +22,9 @@ header:
 如果您想来我们办公室，请使用下方表格提前预约。
 </p>
 
+</section>
+<hr style="margin:4em 0;">
+
 <!-- 到访预约模块 -->
 <section style="max-width:980px; margin:0 auto;">
 
@@ -161,6 +164,7 @@ header:
   </a>
 
 </section>
+
 
 
 
