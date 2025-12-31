@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
   overlay_color: "#000"
-  actions:
+ actions:
     - label: "お問い合わせ"
       url: "/jp/contact/"
      - label:"简体中文"
