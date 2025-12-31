@@ -11,6 +11,9 @@ header:
   actions:
     - label: "サービス内容・料金を見る"
       url: "/jp/aiprices/"
+    - label: "🇨🇳 中文"
+      url: "/cn/services-it/"
+      class: "btn--outline"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
