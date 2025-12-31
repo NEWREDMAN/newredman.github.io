@@ -2,7 +2,6 @@
 layout: splash
 title: コーポレートサイト構築
 permalink: /jp/services-web/
-nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -11,6 +10,9 @@ header:
   actions:
     - label: "Web制作サービス・料金"
       url: "/jp/webprices/"
+    - label: "🇨🇳 中文"
+      url: "/cn/services-web/"
+      class: "btn--outline"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
