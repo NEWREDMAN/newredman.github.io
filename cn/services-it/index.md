@@ -10,6 +10,9 @@ header:
   actions:
     - label: "产品服务及报价"
       url: "/cn/aiprices/"
+    - label: "🇯🇵 日本語"
+      url: "/cn/services-it/"
+      class: "btn--outline"    
 ---
 
 
@@ -99,6 +102,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
