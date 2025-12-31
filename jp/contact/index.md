@@ -1,17 +1,16 @@
 ---
-layout: single
-permalink: /jp/contact/
+layout: splash
+title: お問い合わせ
 classes: wide
+header:
+  overlay_image: /assets/images/cn-hero.jpg
+  overlay_filter: 0.3
+  overlay_color: "#000"
+  actions:
+    - label: "🇨🇳 中文"
+      url: "/cn/contact/"
+      class: "btn--outline"  
 ---
-
-<!-- ページタイトル -->
-<div style="padding:3.5em 0 2.5em; text-align:center;">
-  <h1 style="font-size:2.2em;">お問い合わせ</h1>
-  <p style="font-size:1.05em; color:#666; margin-top:0.8em;">
-    嘉美技術株式会社（JIAMEI Technology）への<br>
-    ご相談・お問い合わせはこちらから
-  </p>
-</div>
 
 <!-- お問い合わせ案内（先に安心感） -->
 <section style="max-width:860px; margin:0 auto; text-align:center;">
