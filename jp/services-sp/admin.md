@@ -11,6 +11,9 @@ header:
   actions:
     - label: "優良商品一覧を見る"
       url: "/jp/services-select/"
+    - label: "🇨🇳 中文"
+      url: "/cn/services-sp/"
+      class: "btn--outline"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
