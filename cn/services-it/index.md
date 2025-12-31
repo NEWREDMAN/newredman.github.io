@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: splash
 title: IT+AI赋能企业发展
+classes: wide
 
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -98,6 +99,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
