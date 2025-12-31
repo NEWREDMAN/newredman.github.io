@@ -11,6 +11,9 @@ header:
   actions:
     - label: "ビジネス視察サービス・料金を見る"
       url: "/jp/kcprices/"
+    - label: "🇨🇳 中文"
+      url: "/cn/services-kc/"
+      class: "btn--outline"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
