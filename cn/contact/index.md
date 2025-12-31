@@ -12,14 +12,6 @@ header:
       class: "btn--outline"  
 ---
 
-<!-- 页面标题区 -->
-<div style="padding:3.5em 0 2.5em; text-align:center;">
-  <h1 style="font-size:2.2em;">联系我们</h1>
-  <p style="font-size:1.1em; color:#666; margin-top:0.8em;">
-    欢迎与嘉美技術株式会社取得联系，探讨合作可能
-  </p>
-</div>
-
 <!-- 到访预约模块 -->
 <section style="max-width:980px; margin:0 auto;">
 
@@ -159,6 +151,7 @@ header:
   </a>
 
 </section>
+
 
 
 
