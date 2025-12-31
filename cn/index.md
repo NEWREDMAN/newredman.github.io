@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: home
 title: 嘉美技術株式会社
-navigation: main-cn 
+nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
