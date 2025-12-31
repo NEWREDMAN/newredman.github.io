@@ -9,10 +9,11 @@ header:
   actions:
     - label: "お問い合わせ"
       url: "/jp/contact/"
-     - label:"简体中文"
-       url: "/cn/"
-       class: "btn--outline"
+    - label: "简体中文"
+      url: "/cn/"
+      class: "btn--outline"
 ---
+
 
 ## 技術を軸に、中日企業を支えるデジタルパートナー
 
