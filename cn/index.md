@@ -9,7 +9,6 @@
     日本語
   </a>
 </div>
-
 ---
 layout: splash
 title: 嘉美技術株式会社
