@@ -11,6 +11,9 @@ header:
   actions:
     - label: "お問い合わせ"
       url: "/jp/contact/"
+    - label: "🇨🇳 中文"
+      url: "/cn/services-select/"
+      class: "btn--outline"
 ---
 
 <h2 style="text-align:center; margin-top:2.5em;">
