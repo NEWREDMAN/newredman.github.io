@@ -11,6 +11,7 @@ header:
       url: "/jp/contact/"
       class: "btn--outline"  
 ---
+<section style="max-width:860px; margin:0 auto; text-align:center;">
 <p style="color:#555; line-height:1.8; margin-bottom:2.2em;">
     我们为日本和中文国家的客户<br>
     提供各种IT、网络和业务支持方面的咨询服务。<br>
@@ -164,6 +165,7 @@ header:
   </a>
 
 </section>
+
 
 
 
