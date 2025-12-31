@@ -9,7 +9,7 @@ header:
   actions:
     - label: "联系我们"
       url: "/cn/contact/"
-   - label: "🇯🇵 日本語"
+    - label: "🇯🇵 日本語"
       url: "/cn/services-select/"
       class: "btn--outline"     
 ---
