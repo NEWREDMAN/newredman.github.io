@@ -1,7 +1,7 @@
 ---
 layout:splash
 title: 企业网站建设
-permalink: /cn/services-web/
+permalink: /jp/services-web/
 classes: wide
 nav:main
 header:
@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   actions:
     - label: "web建站产品及报价"
-      url: "/cn/webprices/"
+      url: "/jp/webprices/"
 ---
 
 <div style="padding: 2.5em 0; text-align: center;">
@@ -100,6 +100,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
