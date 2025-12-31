@@ -11,6 +11,9 @@ header:
   actions:
     - label: "ビジネス視察のご相談"
       url: "/jp/contact/"
+    - label: "🇨🇳 中文"
+      url: "/cn/kcprices/"
+      class: "btn--outline"
 ---
 
 <h2 style="text-align:center; margin-top:2.5em;">
