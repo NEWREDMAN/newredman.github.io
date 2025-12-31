@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: 日本商务考察服务与报价
 classes: wide
   overlay_image: /assets/images/cn-hero.jpg
