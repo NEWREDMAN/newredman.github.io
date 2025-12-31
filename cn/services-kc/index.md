@@ -1,8 +1,7 @@
 ---
 layout: splash
 title: 赴日商务考察
-classes:wide
-
+classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
@@ -10,6 +9,9 @@ header:
   actions:
     - label: "商务考察服务及报价"
       url: "/cn/kcprices/"
+    - label: "🇯🇵 日本語"
+      url: "/cn/services-kc/"
+      class: "btn--outline"    
 ---
 
 
@@ -99,6 +101,7 @@ header:
     </p>
   </div>
 </div>
+
 
 
 
