@@ -2,7 +2,6 @@
 layout: splash
 title: IT+AI赋能企业发展
 classes: wide
-
 header:
   overlay_image: /assets/images/cn-hero.jpg
   overlay_filter: 0.3
@@ -11,7 +10,7 @@ header:
     - label: "产品服务及报价"
       url: "/cn/aiprices/"
     - label: "🇯🇵 日本語"
-      url: "/cn/services-it/"
+      url: "/jp/services-it/"
       class: "btn--outline"    
 ---
 
@@ -102,6 +101,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
