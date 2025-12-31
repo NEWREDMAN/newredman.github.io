@@ -14,7 +14,7 @@ header:
 <p style="color:#555; line-height:1.8; margin-bottom:2.2em;">
     我们为日本和中文国家的客户<br>
     提供各种IT、网络和业务支持方面的咨询服务。<br>
-    <strong>我们可以提供日语和中文两种语言的支持。</strong>です。
+    <strong>我们可以提供日语和中文两种语言的支持。</strong>
 </p>
 
 <p style="color:#666; font-size:0.95em;">
@@ -161,6 +161,7 @@ header:
   </a>
 
 </section>
+
 
 
 
