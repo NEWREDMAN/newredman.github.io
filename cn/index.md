@@ -10,7 +10,7 @@ header:
     - label: "联系我们"
       url: "/cn/contact/"
     - label: "🇯🇵 日本語"
-      url: "/jp/services-it/"
+      url: "/jp/"
       class: "btn--outline"
 ---
 
