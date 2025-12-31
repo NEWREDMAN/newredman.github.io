@@ -1,3 +1,15 @@
+<!-- Language Switch -->
+<div style="
+  display:flex;
+  justify-content:flex-end;
+  margin: 0.5em 0 1.2em;
+">
+  <a href="/jp/services-it/"
+     class="btn btn--outline btn--small">
+    日本語
+  </a>
+</div>
+
 ---
 layout: splash
 title: 嘉美技術株式会社
