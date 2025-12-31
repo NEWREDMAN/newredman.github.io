@@ -2,7 +2,6 @@
 layout: splash
 title: Web制作サービス・料金
 permalink: /jp/webprices/
-nav: main
 classes: wide
 header:
   overlay_image: /assets/images/cn-hero.jpg
@@ -11,6 +10,9 @@ header:
   actions:
     - label: "お問い合わせ"
       url: "/jp/contact"
+    - label: "🇨🇳 中文"
+      url: "/cn/webprices/"
+      class: "btn--outline"
 ---
 <h2 style="text-align:center; margin-top:2.5em;">
   Web制作サービスプラン・料金
