@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: 嘉美技術株式会社
 nav: main
 classes: wide
