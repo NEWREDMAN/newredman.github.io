@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: 赴日商务考察
 classes:wide
 
@@ -99,6 +99,7 @@ header:
     </p>
   </div>
 </div>
+
 
 
 
