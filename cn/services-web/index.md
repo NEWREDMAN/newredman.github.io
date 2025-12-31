@@ -1,5 +1,5 @@
 ---
-layout:splash
+layout: splash
 title: 企业网站建设
 permalink: /jp/services-web/
 classes: wide
@@ -102,6 +102,7 @@ header:
   </a>
 </div>
 ```
+
 
 
 
